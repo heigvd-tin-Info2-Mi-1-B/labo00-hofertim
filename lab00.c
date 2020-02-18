@@ -1,4 +1,4 @@
-// HEIG-VD - INFO2 - L00 - Programme principal
+// HEIG-VD - INFO2 - L00 - Programme principal - Tim Hofer
 
 #define MAX 100
 
