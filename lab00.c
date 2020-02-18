@@ -25,6 +25,10 @@ int32_t main(void)
 	while (phrase[i] == ' ' && i <= nLettres)
 		i++;
 
+	//S'il n y a pas de mots
+	if (i == nLettres)
+		nMots = 0;
+
 	//Boucle qui sert à séparer les mots par une mise à la ligne
 	for (i; i <= MAX; i++, j++)
 	{
@@ -39,7 +43,7 @@ int32_t main(void)
 
 	printf("%i\n", nMots);
 	printf("%s", mots);
-	
+
 	system("pause");
 
 	return EXIT_SUCCESS;
