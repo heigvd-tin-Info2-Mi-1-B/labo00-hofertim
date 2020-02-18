@@ -1,15 +1,11 @@
 // HEIG-VD - INFO2 - L00 - Programme principal
 
-#define	_USE_MATH_DEFINES
 #define MAX 100
 
 #include <stdio.h> 
 #include <stdlib.h>
 #include <stdint.h>
-#include <math.h>
-#include <stdbool.h> 
 #include <string.h>
-#include <windows.h>
 
 // Programme principal
 
