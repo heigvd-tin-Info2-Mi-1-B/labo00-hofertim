@@ -44,3 +44,5 @@ int32_t main(void)
 
 	return EXIT_SUCCESS;
 }
+
+// Après avoir fait de longues recherches, je n'ai pas compris le point 3.
